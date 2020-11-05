@@ -1,0 +1,9 @@
+module TestApp
+{
+
+interface Test
+{
+    int test(routekey string id, out string output);
+};
+
+};

@@ -1,3 +1,9 @@
+# build file
+build
+
+# log file
+log
+
 # Prerequisites
 *.d
 

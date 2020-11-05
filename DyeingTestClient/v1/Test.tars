@@ -1,0 +1,10 @@
+
+module TestApp
+{
+
+interface Test
+{
+    int test(string id, out string output);
+};
+
+}; 
